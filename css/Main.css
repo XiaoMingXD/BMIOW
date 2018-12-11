@@ -1,1 +1,8 @@
 @charset "utf-8";
+.content{
+    position: relative;
+    line-height: 50px;
+    background-color:#FFFFFF;
+    width:50%;
+    border-radius:30px;
+}
